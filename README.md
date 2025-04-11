@@ -20,7 +20,7 @@ You can click the Preview link to check out your changes.
 ---
 
 ### 💻 My LeetCode Progress
-![](https://leetcard.jacoblin.cool/pandarinath-mettu?ext=heatmap)
+[![LeetCode](https://leetcard.jacoblin.cool/pandarinathmettu?ext=heatmap)](https://leetcode.com/u/pandarinathmettu/)
 
 ---
 
